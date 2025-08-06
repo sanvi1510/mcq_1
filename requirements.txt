@@ -1,0 +1,9 @@
+Flask
+Flask-Cors
+langchain
+langchain-google-genai
+python-docx
+pdfplumber
+Pillow
+pdf2image
+pytesseract
